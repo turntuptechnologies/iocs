@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+type: dataset
+message: If you use this data in a publication, please cite it using these metadata.
+title: turntuptechnologies/iocs
+abstract: A repository for sharing indicators of compromise (IoCs) we have observed in the last 24 hours. 
+authors:
+  - name: "Turnt Up Technologies, Inc."
+date-released: "2023-12-23"
+license: MIT
+repository-code: "https://github.com/turntuptechnologies/iocs"
