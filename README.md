@@ -1,9 +1,10 @@
 # iocs
-This is a repository for sharing indicators of compromise (IoCs) we have observed in the last 24 hours.
-This repository will be updated every day around 12:00 a.m. (UTC). To get the latest IoCs, please pull here or download raw files by using wget/curl.
+This repository provides indicators of compromise (IoCs) observed within the last 24 hours.
+It is updated daily around 00:00 (UTC). To get the latest IoCs, please pull this repository or download the raw files using `wget` or `curl`.
 
 | filename       | description                                                 |
 |----------------|-------------------------------------------------------------|
 | mirai.txt      | Hosts associated with Mirai or its variants                 |
 | bruteforce.txt | Hosts attempting to login via telnet or ssh                 |
 | scanner.txt    | Hosts with scanning activities due to surveys or researches |
+| phishing.txt   | URLs identified as or suspected of phishing sites           |
